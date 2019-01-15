@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "144304d1b63f3be2492c7719213aeb0e"
+build_time: [1547543753, 776033000]
+inputs:
+  "/Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Flash Chat/WelcomeViewController.swift": [1547448110, 0]
+  "/Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Flash Chat/Message.swift": [1547502545, 0]
+  "/Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Flash Chat/CustomMessageCell.swift": [1547448110, 0]
+  "/Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Flash Chat/RegisterViewController.swift": [1547543753, 0]
+  "/Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Flash Chat/LogInViewController.swift": [1547543102, 0]
+  "/Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Flash Chat/AppDelegate.swift": [1547505567, 0]
+  "/Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Flash Chat/ChatViewController.swift": [1547543753, 0]

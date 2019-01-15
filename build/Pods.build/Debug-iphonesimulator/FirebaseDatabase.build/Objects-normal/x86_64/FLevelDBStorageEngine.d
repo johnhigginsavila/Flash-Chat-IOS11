@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Persistence/FLevelDBStorageEngine.m \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/build/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/module.modulemap \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Persistence/FLevelDBStorageEngine.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Persistence/FStorageEngine.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FCompoundWrite.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Core/FQuerySpec.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Private/FIRLogger.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Public/FirebaseCore.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Public/FIRAnalyticsConfiguration.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/third_party/Wrap-leveldb/APLevelDB.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FSnapshotUtilities.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Core/FWriteRecord.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Persistence/FTrackedQuery.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FEmptyNode.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPruneForest.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPendingPut.h

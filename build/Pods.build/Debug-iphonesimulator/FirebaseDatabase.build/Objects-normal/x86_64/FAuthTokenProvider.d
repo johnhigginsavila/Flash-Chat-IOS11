@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Login/FAuthTokenProvider.m \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/build/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/module.modulemap \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Login/FAuthTokenProvider.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Utilities/FTypedefs.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Private/FIRAppInternal.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Public/FirebaseCore.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Public/FIRAnalyticsConfiguration.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Private/FIRErrors.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Private/FIRErrorCode.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseCore/Firebase/Core/Private/FIRLogger.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FIRDatabaseQuery_Private.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Core/FRepo.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Core/FPersistentConnection.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Realtime/FConnection.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Realtime/FWebSocketConnection.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/third_party/SocketRocket/FSRWebSocket.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataEventType.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTupleUserCallback.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoManager.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Api/FIRDatabaseConfig.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseQuery.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataSnapshot.h \
+  /Users/johnhigginsm.avila/Documents/Udemy/ios_development/Flash-Chat-iOS11/Pods/FirebaseDatabase/Firebase/Database/Login/FIRNoopAuthTokenProvider.h
